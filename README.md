@@ -39,7 +39,7 @@ heart's desire.
 If you want a bit more of a challenge consider setting up Webhooks as opposed to polling. A fun Jenkins exercise that 
 can get you thinking. 
 
-##### Set up _Embeddable Build Status_ for Repo
+#### Set up _Embeddable Build Status_ for Repo
 ![Build status badge](/img/jenkins_badge.png)
 
 The build status symbol often seen on a Github repository is normally connected
